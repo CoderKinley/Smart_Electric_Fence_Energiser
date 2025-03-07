@@ -73,8 +73,6 @@ This project involves **firmware development using C++** for ESP32 and SIM7600, 
 - **AI-Based Anomaly Detection:** Use machine learning to detect unusual patterns.
 
 ## Author
-Developed by **[Your Name]**
+Developed by **Kinley Penjor**
 
-## License
-MIT License
 
